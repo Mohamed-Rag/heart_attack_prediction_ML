@@ -28,7 +28,7 @@ To run these models and reproduce the results, follow these steps:
     cd heart_attack_prediction_ML
     ```
 2.  **Install necessary libraries**:
-    (Assumes Python 3 is installed. Specific library requirements can be found within each notebook, but common ones include `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`. )
+    (Assumes Python 3 is installed. Specific library requirements can be found within each notebook, but common ones include `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`.)
     ```bash
     pip install pandas numpy scikit-learn matplotlib seaborn
     ```
@@ -39,3 +39,29 @@ To run these models and reproduce the results, follow these steps:
     ```
 
 ## Project Structure
+```
+heart_attack_prediction_ML/
+├── Heart Attack Data Set.csv
+├── bernoli.ipynb
+├── dt.ipynb
+├── gaussian_naive_bayes.ipynb
+├── knn.ipynb
+├── multinomial.ipynb
+├── svm.ipynb
+├── wknn.ipynb
+└── README.md (this file)
+```
+
+## Results and Conclusion
+(This section would typically include a summary of each model's performance, a comparison, and the best-performing model. Since the notebooks were not executed, this is a placeholder.)
+
+## Contributing
+Contributions are welcome! Please feel free to open issues or submit pull requests.
+
+## License
+This project is open-sourced.
+
+## Contact
+For any questions or suggestions, please contact Mohamed-Rag.
+
+
